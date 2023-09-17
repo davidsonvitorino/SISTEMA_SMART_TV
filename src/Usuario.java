@@ -9,7 +9,7 @@ public class Usuario {
         smartTv.aumentarVolume();
 
         System.out.println("Canal atual: " + smartTv.canal);
-        smartTv.mudarCanal(55);
+        smartTv.mudarCanal(45);
         System.out.println("Canal atual: " + smartTv.canal);
 
         System.out.println("Tv Ligada: " + smartTv.ligada);
